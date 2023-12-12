@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApi_Assignment1", "RestApi_Assignment1\RestApi_Assignment1.csproj", "{ABB6325E-EDE7-4B5A-AB88-9A632B5C312C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestApi_Assignment1", "RestApi_Assignment1\RestApi_Assignment1.csproj", "{ABB6325E-EDE7-4B5A-AB88-9A632B5C312C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApiNunit_Assignment2", "RestApiNunit_Assignment2\RestApiNunit_Assignment2.csproj", "{69CB6886-ADA2-45E1-8428-4D6F322B9F62}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{ABB6325E-EDE7-4B5A-AB88-9A632B5C312C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABB6325E-EDE7-4B5A-AB88-9A632B5C312C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABB6325E-EDE7-4B5A-AB88-9A632B5C312C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69CB6886-ADA2-45E1-8428-4D6F322B9F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69CB6886-ADA2-45E1-8428-4D6F322B9F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69CB6886-ADA2-45E1-8428-4D6F322B9F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69CB6886-ADA2-45E1-8428-4D6F322B9F62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
