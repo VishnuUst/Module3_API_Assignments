@@ -1,0 +1,2 @@
+2023-12-14 15:37:48.935 +05:30 [INF] Api Error:{"token":"65fee410a4ef942"}
+2023-12-14 15:37:48.958 +05:30 [INF] Update User test passed

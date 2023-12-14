@@ -1,0 +1,5 @@
+2023-12-14 15:20:09.777 +05:30 [INF] Api Error:{"firstname":"James","lastname":"Brown","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}
+2023-12-14 15:20:09.802 +05:30 [INF] Get UserData Test Passed
+2023-12-14 15:20:09.803 +05:30 [INF] Fetched User Id Is Correct
+2023-12-14 15:20:09.803 +05:30 [INF] User Title Is Correct
+2023-12-14 15:20:09.803 +05:30 [INF] User Body Is Correct

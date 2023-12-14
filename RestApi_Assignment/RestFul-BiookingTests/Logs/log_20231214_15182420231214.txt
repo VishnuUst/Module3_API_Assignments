@@ -1,0 +1,2 @@
+2023-12-14 15:18:25.409 +05:30 [INF] Api Error:{"firstname":"Mark","lastname":"Jackson","totalprice":284,"depositpaid":false,"bookingdates":{"checkin":"2020-12-01","checkout":"2023-02-17"},"additionalneeds":"Breakfast"}
+2023-12-14 15:18:25.431 +05:30 [INF] Get UserData Test Passed
