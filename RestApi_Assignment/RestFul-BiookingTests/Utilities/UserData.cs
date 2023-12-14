@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RestApi_Assignment3
+namespace RestFul_BiookingTests
 {
     internal class UserData
     {

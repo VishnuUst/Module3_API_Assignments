@@ -1,6 +1,5 @@
 ﻿using Newtonsoft.Json;
-using RestApi_Assignment3;
-using RestApi_Assignment3.Utilities;
+using RestFul_BiookingTests;
 using RestFul_BiookingTests.Utilities;
 using RestSharp;
 using Serilog;
@@ -85,7 +84,7 @@ namespace RestFul_BiookingTests.TestScripts
             catch (AssertionException)
             {
 
-                test.Pass("Create user test Failed");
+                test.Fail("Create user test Failed");
             }
 
         }
@@ -151,7 +150,7 @@ namespace RestFul_BiookingTests.TestScripts
             catch (AssertionException)
             {
 
-                test.Pass("Delete User Test Fail");
+                test.Fail("Delete User Test Fail");
             }
         }
         [Test]
@@ -198,7 +197,7 @@ namespace RestFul_BiookingTests.TestScripts
             catch (AssertionException)
             {
 
-                test.Pass("Update User Test Failed");
+                test.Fail("Update User Test Failed");
             }
 
         }
