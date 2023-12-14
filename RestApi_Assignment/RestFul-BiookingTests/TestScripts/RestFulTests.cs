@@ -13,7 +13,7 @@ namespace RestFul_BiookingTests.TestScripts
 {
     [TestFixture]
     internal class RestFulTests : CoreCodes
-    {
+    { 
         [Test]
         [Order(1)]
         [TestCase("2")]
